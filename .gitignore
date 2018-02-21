@@ -1,0 +1,5 @@
+Config.toml
+last_comic
+/target
+**/*.rs.bk
+
