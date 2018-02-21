@@ -2,6 +2,8 @@
 
 I recently was introduced to [this amazingly wholesome 4-cell webcomic](helveticascans.com/r/read/wonder-cat-kyuu-chan/) and discovered that new strips are uploaded every day! As an avid telegram user, I decided I would set out to make a telegram bot to send me strips whenever they are available!
 
+## [Follow it on telegram!](https://t.me/wondercatkyuu)
+
 ## Setup
 
 1. Copy `Config.toml.default` to `Config.toml` and change the necessary fields.
