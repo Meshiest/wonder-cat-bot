@@ -3,7 +3,7 @@
 url = "http://helveticascans.com/r/series/wonder-cat-kyuu-chan/"
 
 # This regex is used to find the part of the url we are tracking by
-regex = "http://helveticascans.com/r/read/wonder-cat-kyuu-chan/en/0/(\\d+)/"
+regex = "https?://helveticascans.com/r/read/wonder-cat-kyuu-chan/en/0/(\\d+)/"
 
 # Location of where we want to save the index of the last comic
 tracker_file = "last_comic"
