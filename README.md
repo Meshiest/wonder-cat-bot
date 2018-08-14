@@ -1,8 +1,8 @@
+The wonder cat kyuu-chan bot has been discontinued! Sorry to the 8 other people who followed the channel
+
 ## Wonder Cat Kyuu-chan Bot
 
-I recently was introduced to [this amazingly wholesome 4-cell webcomic](http://helveticascans.com/r/read/wonder-cat-kyuu-chan/) and discovered that new strips are uploaded every day! As an avid telegram user, I decided I would set out to make a telegram bot to send me strips whenever they are available!
-
-## [Follow it on telegram!](https://t.me/wondercatkyuu)
+I recently was introduced to [this amazingly wholesome 4-cell webcomic](https://myanimelist.net/manga/112694/Fushigi_Neko_no_Kyuu-chan) and discovered that new strips are uploaded every day! As an avid telegram user, I decided I would set out to make a telegram bot to send me strips whenever they are available!
 
 ## Setup
 
